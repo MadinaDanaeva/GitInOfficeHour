@@ -3,5 +3,8 @@ public class BranchingPractice {
     //create new project
         //enable version control
         //added .gitignore with idea
+
+        //reviewing on new branch
+            //doing mover review on branch
     }
 }
